@@ -9,6 +9,7 @@ A collection of website design systems. Each site lives in its own folder with a
 | Site | Style | File | Captured |
 |---|---|---|---|
 | [Monzo](https://monzo.com) | light · bold · rounded fintech · Hot Coral + navy | [monzo/design.md](monzo/design.md) | 2026-11-07 |
+| [Linear](https://linear.app) | dark-first · dense · precise SaaS · near-black + indigo · Inter Display | [linear/design.md](linear/design.md) | 2026-11-10 |
 | [Stripe](https://stripe.com) | light · editorial · Söhne 300 · indigo accent · gradient hero | [stripe/design.md](stripe/design.md) | 2026-11-10 |
 
 ## Structure / 结构
